@@ -5,7 +5,7 @@ body {
 
 header {
     height: 250px;
-    width: 550px;
+    min-width: 550px;
     background-color: #6943FF;
     padding: 30px 30px 0px 30px;
 }
